@@ -1,7 +1,7 @@
 # DSLR-Demosiac
 3 simple algorithms that compiles an image from DSLR camera inputs.
 
-This program is done via jupyter notebook. You can change the images tested in the following code snippets:
+You can change the images tested in the following code snippets:
 
 
 __This part is for the comparison of mosiac and truth image__
